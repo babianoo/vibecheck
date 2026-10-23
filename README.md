@@ -2,6 +2,9 @@
 
 Estimates how vibe-coded a C/C++ project is.
 
+> **Disclosure:** this project was ENTIRELY vibe-coded. Every line was
+> written by an AI agent (Claude); the human contribution was the vibes.
+
 "Vibe-coded" is not the same as "written with AI". vibecheck scores two
 separate axes and combines them:
 
