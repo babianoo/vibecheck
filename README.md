@@ -109,3 +109,7 @@ python -m pytest
 Layout: `vibecheck/cpp.py` (lexer and function finder), `discover.py` (which
 files count), `collectors/` (one module per signal family), `scoring.py`,
 `report.py`, `cli.py`.
+
+## License
+
+Public domain, via the [Unlicense](LICENSE). Do whatever you want with it.
